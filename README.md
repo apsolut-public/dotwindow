@@ -4,11 +4,13 @@ Reborn KIT when re-install PC
 
 
 # important
+- 7zip
 - Notepad++
 - PHPStorm
 - Laragon
 - ConEmu
 - Figma
+- FontBase
 - ShareX
 - Adobe (Photoshop, Illustrator, AE, Media Encoder)
 - Backblaze
