@@ -1,5 +1,6 @@
 # reborn-kit
 Reborn KIT when re-install PC
+- Markdown Syntax [URL](https://www.markdownguide.org/basic-syntax/)
 
 
 # important
