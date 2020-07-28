@@ -27,7 +27,8 @@ Reborn KIT when re-install PC
 - 
 
 # extras
-- WOX
+- Power toys [Microsoft git](https://github.com/microsoft/PowerToys)
+- WOX *
 - JpegMINI
 - PNGyu
 - Audacity 
