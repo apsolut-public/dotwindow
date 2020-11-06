@@ -38,6 +38,13 @@ Reborn KIT when re-install PC
 - SVG explorer extension
 - SmartSVN
 
+# PhpStorm
+- *ignore
+- CodeGlance
+- Key Promoter X
+- Rainbow Brackets
+- theme: 
+
 
 # chrome
 - raindrop.io
