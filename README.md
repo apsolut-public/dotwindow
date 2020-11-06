@@ -22,9 +22,8 @@ Reborn KIT when re-install PC
 - Screencast-O-Matic
 
 # fonts
-- JetBrains Mono Medium 15 , line 1.3 [URL](https://www.jetbrains.com/lp/mono/)
-- 
-- 
+- JetBrains Mono Medium 18 , line 1.3 [URL](https://www.jetbrains.com/lp/mono/)
+- Hack, Cascadia Code
 
 # extras
 - Power toys [Microsoft git](https://github.com/microsoft/PowerToys)
