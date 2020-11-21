@@ -8,7 +8,8 @@ Reborn KIT when re-install PC
 - Notepad++
 - PHPStorm
 - Laragon
-- ConEmu
+- ConEmu / Cmder
+- Git
 - Figma
 - FontBase
 - ShareX
