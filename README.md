@@ -9,7 +9,7 @@ Reborn KIT when re-install PC
 - PHPStorm
 - Laragon
 - ConEmu / Cmder
-- Git
+- Git / NPM
 - Figma
 - FontBase
 - ShareX
@@ -21,6 +21,7 @@ Reborn KIT when re-install PC
 - Handbrake
 - MyCrypto
 - Screencast-O-Matic
+
 
 # fonts
 - JetBrains Mono Medium 18 , line 1.3 [URL](https://www.jetbrains.com/lp/mono/)
@@ -35,7 +36,6 @@ Reborn KIT when re-install PC
 - Backup Google
 - Aida64
 - VNC
-- SVG explorer extension
 - SmartSVN
 
 # PhpStorm
@@ -43,8 +43,21 @@ Reborn KIT when re-install PC
 - CodeGlance
 - Key Promoter X
 - Rainbow Brackets
-- theme: 
+- theme: \
 
+
+# npm install
+    // global
+    npm install --global gulp-cli
+    // inside project
+    npm install gulp
+
+
+# folder structure
+    X:/Sites
+    X:/Sites/laragon
+    X:/Sites/github
+    X:/Sites/wordpress
 
 # chrome
 - raindrop.io
