@@ -46,7 +46,9 @@ Reborn KIT when re-install PC
 - theme: \
 
 
-# npm install
+# npm 
+    // got in mind
+    npm shrinkwrap
     // global
     npm install --global gulp-cli
     // inside project
