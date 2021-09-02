@@ -3,6 +3,10 @@ Reborn KIT when re-install PC
 - Markdown Syntax [URL](https://www.markdownguide.org/basic-syntax/)
 
 
+# TODO
+- 7z.exe a -t7z "D:\neme-of-backup.7z" "D:\folder-to-backup" -bd  -mx9 -xr@"D:\excludelist.txt"
+
+
 # important
 - 7zip
 - Notepad++
@@ -10,16 +14,16 @@ Reborn KIT when re-install PC
 - Laragon
 - ConEmu / Cmder
 - Git / NPM
-- Figma
 - FontBase
 - ShareX
-- Adobe (Photoshop, Illustrator, AE, Media Encoder)
+- Figma
+- Affinity Photo
+- <del>Adobe (Photoshop, Illustrator, AE, Media Encoder)</del>
 - Backblaze
 - Bitvise
 - WinSCP
 - ShrewSoft VPN Client
 - Handbrake
-- MyCrypto
 - Screencast-O-Matic
 
 
