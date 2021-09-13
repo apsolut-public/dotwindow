@@ -20,7 +20,7 @@ Reborn KIT when re-install PC
 - FontBase
 - ShareX
 - Figma
-- Affinity Photo
+- Affinity Photo & Designer 
 - <del>Adobe (Photoshop, Illustrator, AE, Media Encoder)</del>
 - Backblaze
 - Bitvise
