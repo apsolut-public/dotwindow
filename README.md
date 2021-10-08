@@ -3,6 +3,13 @@ Reborn KIT when re-install PC
 - Markdown Syntax [URL](https://www.markdownguide.org/basic-syntax/)
 
 
+# TODO
+- 7z.exe a -t7z "C:\neme-of-backup.7z" "C:\folder-to-backup" -bd  -mx9 -xr@"C:\excludelist.txt"
+- C:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysql.exe -uroot -s -N -e "SHOW DATABASES" | for /F "usebackq" %%D in (`findstr /V "information_schema performance_schema"`) do C:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqldump.exe %%D -uroot > C:\BACKUPS\%%D.sql
+- manage-bde -lock -ForceDismount H:
+
+
+
 # important
 - 7zip
 - Notepad++
@@ -10,16 +17,16 @@ Reborn KIT when re-install PC
 - Laragon
 - ConEmu / Cmder
 - Git / NPM
-- Figma
 - FontBase
 - ShareX
-- Adobe (Photoshop, Illustrator, AE, Media Encoder)
+- Figma
+- Affinity Photo & Designer 
+- <del>Adobe (Photoshop, Illustrator, AE, Media Encoder)</del>
 - Backblaze
 - Bitvise
 - WinSCP
 - ShrewSoft VPN Client
 - Handbrake
-- MyCrypto
 - Screencast-O-Matic
 
 
