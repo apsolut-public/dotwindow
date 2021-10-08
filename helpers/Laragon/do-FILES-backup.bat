@@ -1,0 +1,1 @@
+7z.exe a -t7z "X:\laragon\www\backup-laragon-files-r817ja9z.7z" "X:\laragon\www\" -bd  -mx9 -xr@"X:\laragon\www\laragon-excludelist.txt"

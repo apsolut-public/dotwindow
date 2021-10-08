@@ -1,0 +1,1 @@
+X:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysql.exe -uroot -s -N -e "SHOW DATABASES" | for /F "usebackq" %%D in (`findstr /V "information_schema performance_schema"`) do X:\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqldump.exe %%D -uroot > X:\laragon\backups\%%D.sql
