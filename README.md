@@ -10,6 +10,8 @@ https://github.com/apsolut/dotwindows
 
 https://gist.github.com/apsolut/202d9a8f7923d437dc60e7cd47d87a77
 
+https://ohmyposh.dev/docs/windows
+
 
 
 # important
