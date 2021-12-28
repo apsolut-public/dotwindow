@@ -4,7 +4,10 @@ Reborn KIT when re-install PC
 
 
 # TODO
-https://www.nerdfonts.com/font-downloads
+https://www.nerdfonts.com/font-downloads 
+
+https://github.com/apsolut/dotwindows 
+
 https://gist.github.com/apsolut/202d9a8f7923d437dc60e7cd47d87a77
 
 
